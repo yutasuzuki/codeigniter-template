@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 	<meta charset="UTF-8" />
-	<title>TriFort Cloud</title>
+	<title></title>
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
 	<link rel="stylesheet" href="assets/css/reset.css" />
 	<link rel="stylesheet" href="assets/css/common.css" />
