@@ -1,0 +1,8 @@
+php_flag display_errors Off
+
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|robots\.txt)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /library/cavy/index.php/$1 [L]
+#RewriteRule ^(.*)$ /index.php/$1 [L]
